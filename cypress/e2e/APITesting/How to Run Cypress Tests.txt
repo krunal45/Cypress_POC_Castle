@@ -1,0 +1,4 @@
+We can run cypress tests in following 2 ways > 
+1. Open new Terminal. Paste following command > 'npx cypress run --spec ${RelativePath Of the cypress test file}.
+2. Open new Terminal. npx cypress open. This will open up cypress window in browser. From there select end to end test. Click on 
+test file. Tests will run. 
