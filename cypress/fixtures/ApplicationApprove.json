@@ -1,0 +1,24 @@
+{
+    "applicant": {
+      "salutation": "MR",
+      "firstName": "DALE",
+      "lastName": "SIVAPAGASAM",
+      "dateOfBirth": "1983-01-19",
+      "phoneNumber": "07123456789",
+      "email": "dale19@gmail.com",
+      "address": {
+        "houseNumber": "395A",
+        "houseName": "abc building",
+        "flat": "Flat 1",
+        "streetAddress1": "HIGH ROAD",
+        "city": "WEMBLEY",
+        "county": "MIDDX",
+        "postCode": "HA9 6AA"
+      }
+    },
+    "marketingPreferences": {
+      "sms": true,
+      "email": true,
+      "postal": true
+    }
+  }

@@ -1,0 +1,9 @@
+{
+    "applicantIdentifiers": [
+    {
+        "source": "ThreatMetrix",
+        "key": "Session_Id",
+        "value": "a7b8ecda-1000-11ee-be56-0242ac120002"
+    }
+]
+}
